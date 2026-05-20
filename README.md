@@ -12,8 +12,8 @@ https://rakeshflix.netlify.app
 - Footer Grid Layout
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 📸 Preview
 (<img width="1892" height="808" alt="Screenshot 2026-05-20 174905" src="https://github.com/user-attachments/assets/edac02a1-c4d6-4c49-9f13-6fcdab6f7993" />
