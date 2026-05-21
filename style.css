@@ -38,7 +38,7 @@ nav {
 }
 
 nav img {
-    color: red;
+    /* color: red; */
     width: 130px;
     position: relative;
     z-index: 10;
